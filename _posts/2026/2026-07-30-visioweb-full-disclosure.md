@@ -16,7 +16,6 @@ The rest of this post contains the full technical write-up of the vulnerability.
 ## Client-side prototype pollution leading to DOM-XSS - CVE-2022-3901
 
 - CVE: CVE-2022-3901
-- Case: {DIVD case number — not present in source documents, please fill in}
 - Discovered by: Jan-Jaap Korpershoek
 - Credits: Jan-Jaap Korpershoek (finder), Victor Pasman (DIVD, analyst)
 - Products: Visioweb.js (Visio Globe), affected platforms: Windows, MacOS, Linux
