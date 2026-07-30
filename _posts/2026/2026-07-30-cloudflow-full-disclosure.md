@@ -44,7 +44,7 @@ It was additionally observed that the web server process was running with admini
 - `C:\Users\Administrator\NTUser.dat`
 - `C:\Users\Administrator\appdata\Roaming\Microsoft\Windows\PowerShell\PSReadline\ConsoleHost_history.txt`
 
-It could not be confirmed, due to limited access during testing, whether running the web server with administrative privileges was a misconfiguration by the server administrator or a default setting of the CLOUDFLOW PROOFSCOPE software.
+It could not be confirmed, due to limited access during testing, whether running the web server with administrative privileges was a misconfiguration by the server administrator or a default setting of the CLOUDFLOW software.
 
 ### Risk
 
@@ -112,7 +112,7 @@ A potential attacker could upload malicious files to the CLOUDFLOW PROOFSCOPE bu
 
 - **2023-02-21**: DIVD released CVE-2022-41216 and CVE-2022-41217.
 - **2024-07-21**: Case closed due to inactivity.
-- **2026-07-27**: Full disclosure of CVE's.
+- **2026-07-30**: Full disclosure of CVE's.
 
 ## More information
 
