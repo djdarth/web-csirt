@@ -2,6 +2,7 @@
 layout: post
 title: CyberAuditWeb and videx-legacy-ssl full disclosure
 author: Victor Pasman
+case: DIVD-2024-00043
 researchers:
     - Hidde Smit (Reseacher)
     - Wietse Boonstra (Researcher)
