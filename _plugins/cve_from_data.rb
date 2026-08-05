@@ -19,7 +19,7 @@ module CveFromData
       records = []
       site.data["cves"].each do | key, value |
         value.each do | id, record |
-          if record["dataVersion"] == "5.0" or record["dataVersion"] == "5.1" then
+          if record["dataVersion"] == "5.0" or record["dataVersion"] == "5.1" or record["dataVersion"] == "5.2" then
             doc = Jekyll::PageWithoutAFile.new(site,site.source,"cves","#{id}.md") 
             doc.data.merge!(
               "layout" => "cve-json-50",
